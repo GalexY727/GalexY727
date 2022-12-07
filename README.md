@@ -10,19 +10,20 @@
     <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&pause=1000&center=true&vCenter=true&width=870&height=100&lines=My+name+is+Alexander+Hamilton+%F0%9F%91%8B;I+code+robots+for+F.I.R.S.T.+competitions+%F0%9F%A4%96;I+am+learning+Java%2C+JavaScript%2C+and+Pyhton+%F0%9F%90%8D;I+really+like+music+and+space+%F0%9F%8C%8C;Have+a+nice+day!" alt="About me" /></a>
 
   <!-- Github Streak -->
-  <a href="[https://git.io/typing-svg](https://git.io/streak-stats)">
+  <a href="https://git.io/streak-stats">
     <img src="https://streak-stats.demolab.com?user=GalexY&theme=tokyonight_duo&mode=weekly&border=DD2BC7" alt="Streak Stats" /></a>
+  
+  <!-- Commit Snake! -->
+  <a href="Snek">
+  <img src="https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake-dark.svg#gh-dark-mode-only" alt="Streak Stats" /></a>
+  
+  <!-- Random Wallpaper -->
+  <a href="https://github.com/DenverCoder1/Minimalistic-Wallpaper-Collection">
+    <img src="https://minimalistic-wallpaper.demolab.com/?random" alt="Random Wallpaper" /></a>
+  
 
   
 </p>
-
-<!-- Commit Snake! -->
-![github contribution grid snake animation](https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake-dark.svg#gh-dark-mode-only)
-
-<!-- Random Wallpaper -->
-[![Random Wallpaper](https://minimalistic-wallpaper.demolab.com/?random)](https://github.com/DenverCoder1/Minimalistic-Wallpaper-Collection)
-
-
 
 <!--
 **GalexY727/GalexY727** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
