@@ -15,7 +15,7 @@
   
   <!-- Commit Snake! -->
   <a href="Snek">
-  <img src="https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake-dark.svg#gh-dark-mode-only" alt="Streak Stats" /></a>
+  <img src="https://raw.githubusercontent.com/galexy727/galexy727/snake/github-contribution-grid-snake-dark.svg#gh-dark-mode-only" alt="Streak Stats" /></a>
   
   <!-- Random Wallpaper -->
  
