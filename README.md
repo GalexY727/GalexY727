@@ -21,7 +21,7 @@
  
 </p>
 
-<details open> 
+<details> 
   <summary><h2>🌠 Random Wallpaper</h2></summary>
 
   <a href="https://github.com/DenverCoder1/Minimalistic-Wallpaper-Collection">
