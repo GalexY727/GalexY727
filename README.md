@@ -1,5 +1,5 @@
-### Hi there 👋
-
+### Hi! I am Alexander 👋
+[![GitHub Streak](https://streak-stats.demolab.com?user=GalexY&theme=tokyonight_duo&mode=weekly&border=DD2BC7)](https://git.io/streak-stats)
 <!--
 **GalexY727/GalexY727** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
