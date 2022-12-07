@@ -2,19 +2,19 @@
 <p align="center">
 
   <!-- Gif -->
-  
   <a href="https://github.com/GalexY727">
     <img src="https://github.com/GalexY727/GalexY727/blob/main/media/GalexYBanner.gif" alt="GalexY" /></a>
     
   <!-- Typing SVG -->
-  
   <a href="https://git.io/typing-svg">
     <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&pause=1000&center=true&vCenter=true&width=870&height=100&lines=My+name+is+Alexander+Hamilton+%F0%9F%91%8B;I+code+robots+for+F.I.R.S.T.+competitions+%F0%9F%A4%96;I+am+learning+Java%2C+JavaScript%2C+and+Pyhton+%F0%9F%90%8D;I+really+like+music+and+space+%F0%9F%8C%8C;Have+a+nice+day!" alt="About me" /></a>
 
-</p>
+  <!-- Github Streak -->
+  <a href="[https://git.io/typing-svg](https://git.io/streak-stats)">
+    <img src="https://streak-stats.demolab.com?user=GalexY&theme=tokyonight_duo&mode=weekly&border=DD2BC7" alt="Streak Stats" /></a>
 
-<!-- Github Streak -->
-[![GitHub Streak](https://streak-stats.demolab.com?user=GalexY&theme=tokyonight_duo&mode=weekly&border=DD2BC7)](https://git.io/streak-stats)
+  
+</p>
 
 <!-- Commit Snake! -->
 ![github contribution grid snake animation](https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake-dark.svg#gh-dark-mode-only)
