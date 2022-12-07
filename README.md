@@ -15,10 +15,13 @@
 
 <!-- Github Streak -->
 [![GitHub Streak](https://streak-stats.demolab.com?user=GalexY&theme=tokyonight_duo&mode=weekly&border=DD2BC7)](https://git.io/streak-stats)
-[![Random Wallpaper](https://minimalistic-wallpaper.demolab.com/?random)](https://github.com/DenverCoder1/Minimalistic-Wallpaper-Collection)
 
 <!-- Commit Snake! -->
 ![github contribution grid snake animation](https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake-dark.svg#gh-dark-mode-only)
+
+<!-- Random Wallpaper -->
+[![Random Wallpaper](https://minimalistic-wallpaper.demolab.com/?random)](https://github.com/DenverCoder1/Minimalistic-Wallpaper-Collection)
+
 
 
 <!--
