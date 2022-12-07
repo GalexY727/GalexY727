@@ -14,7 +14,7 @@
     <img src="https://streak-stats.demolab.com?user=GalexY&theme=tokyonight_duo&mode=weekly&border=DD2BC7" alt="Streak Stats" /></a>
   
   <!-- Commit Snake! -->
-  <a href="Snek">
+  <a href="https://github.com/marketplace/actions/generate-snake-game-from-github-contribution-grid">
   <img src="https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake-dark.svg#gh-dark-mode-only" alt="Streak Stats" /></a>
   
   <!-- Random Wallpaper -->
