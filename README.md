@@ -18,12 +18,15 @@
   <img src="https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake-dark.svg#gh-dark-mode-only" alt="Streak Stats" /></a>
   
   <!-- Random Wallpaper -->
+ 
+</p>
+
+<details open> 
+  <summary><h2>🌠 Random Wallpaper</h2></summary>
+
   <a href="https://github.com/DenverCoder1/Minimalistic-Wallpaper-Collection">
     <img src="https://minimalistic-wallpaper.demolab.com/?random" alt="Random Wallpaper" /></a>
-  
-
-  
-</p>
+</details>
 
 <!--
 **GalexY727/GalexY727** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
