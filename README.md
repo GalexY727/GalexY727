@@ -4,7 +4,7 @@
   <!-- Gif -->
   
   <a href="https://github.com/GalexY727">
-    <img src="https://github.com/GalexY727/GalexY727/blob/main/GalexYBanner.gif" alt="GalexY" /></a>
+    <img src="https://github.com/GalexY727/GalexY727/blob/main/media/GalexYBanner.gif" alt="GalexY" /></a>
     
   <!-- Typing SVG -->
   
