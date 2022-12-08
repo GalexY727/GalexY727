@@ -44,7 +44,7 @@ jobs:
         with:
           target_branch: media
           build_dir: dist
-          keep_history: true
+          keep_history: false
           commit_message: Update the daily wallpaper and commit graph
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
