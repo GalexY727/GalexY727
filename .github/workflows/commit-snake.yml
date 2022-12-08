@@ -1,4 +1,4 @@
-name: generate snake
+name: update media
 
 on:
   # run automatically every 24 hours
@@ -35,7 +35,7 @@ jobs:
         uses: valitydev/action-download-file@v1
         with:
           url: https://minimalistic-wallpaper.demolab.com/?random&redirect=1
-          target-path: dist/wallpapers/new
+          target-path: dist/wallpapers/
       
       # push the content of <build_dir> to a branch
       # the content will be available at https://raw.githubusercontent.com/<github_user>/<repository>/<target_branch>/<file> , or as github page
@@ -44,7 +44,7 @@ jobs:
         with:
           target_branch: media
           build_dir: dist
-          PRESERVE: true
-          COMMIT_MESSAGE: Update the daily wallpaper and commit graph
+          keep_history: true
+          commit_message: Update the daily wallpaper and commit graph
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
