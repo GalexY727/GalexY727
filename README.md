@@ -27,7 +27,7 @@
 
 <!-- Random Wallpaper -->
 <details> 
-  <summary><h2>🌠 Random Wallpaper</h2></summary>
+  <summary><h2>🌠 Wallpaper of the Day</h2></summary>
     
   <a href="https://minimalistic-wallpaper.demolab.com/" target="_blank" rel="noopener noreferrer">
     <img src="https://raw.githubusercontent.com/galexy727/galexy727/media/wallpapers/index.html%3Frandom" alt="Random Wallpaper" /></a>
