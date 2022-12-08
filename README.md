@@ -30,7 +30,7 @@
   <summary><h2>🌠 Wallpaper of the Day</h2></summary>
     
   <a href="https://github.com/marketplace/actions/update-image-readme" target="_blank" rel="noopener noreferrer">
-    <img src="https://raw.githubusercontent.com/galexy727/galexy727/media/wallpapers/index.html%3Frandom" alt="Random Wallpaper" /></a>
+    <img src="https://raw.githubusercontent.com/galexy727/galexy727/media/wallpapers/index.html%3Frandom" alt="Random Wallpaper" target="_blank" rel="noopener noreferrer"/></a>
 </details>
 
 <!--
