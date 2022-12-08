@@ -35,7 +35,7 @@ jobs:
         uses: valitydev/action-download-file@v1
         with:
           url: https://minimalistic-wallpaper.demolab.com/?random&redirect=1
-          target-path: dist/github-daily-wallpaper.jpg
+          target-path: dist/wallpapers
       
       # push the content of <build_dir> to a branch
       # the content will be available at https://raw.githubusercontent.com/<github_user>/<repository>/<target_branch>/<file> , or as github page
