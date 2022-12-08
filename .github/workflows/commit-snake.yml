@@ -1,9 +1,9 @@
 name: generate snake
 
 on:
-  # run automatically every 12 hours
+  # run automatically every 24 hours
   schedule:
-    - cron: "0 */12 * * *" 
+    - cron: "0 0 * * *" 
   
   # allows to manually run the job at any time
   workflow_dispatch:
@@ -35,7 +35,7 @@ jobs:
         uses: valitydev/action-download-file@v1
         with:
           url: https://minimalistic-wallpaper.demolab.com/?random&redirect=1
-          target-path: dist/wallpapers
+          target-path: dist/wallpapers/new
       
       # push the content of <build_dir> to a branch
       # the content will be available at https://raw.githubusercontent.com/<github_user>/<repository>/<target_branch>/<file> , or as github page
@@ -44,5 +44,7 @@ jobs:
         with:
           target_branch: media
           build_dir: dist
+          PRESERVE: true
+          COMMIT_MESSAGE: Update the daily wallpaper and commit graph
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
