@@ -13,6 +13,9 @@ jobs:
     steps:
       - uses: siddharth2016/update-readme-image@main
         with:
-          IMG_ALT: Image ALT
+          HEIGHT: 540px # 16:9
+          WIDTH: 960px # 16:9
+          ALIGN: center # duhhh
+          IMG_ALT: Daily Wallpaper
           IMG_PATH: images
           IMG_REPOSITORY: DenverCoder1/minimalistic-wallpaper-collection
