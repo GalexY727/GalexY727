@@ -28,9 +28,10 @@
 <!-- Random Wallpaper -->
 <details> 
   <summary><h2>🌠 Wallpaper of the Day</h2></summary>
-    
-  <a href="https://github.com/marketplace/actions/update-image-readme" target="_blank" rel="noopener noreferrer">
+  <!--START_SECTION:update_image-->
+  <a href="https://raw.githubusercontent.com/galexy727/galexy727/media/wallpapers/index.html%3Frandom" target="_blank" rel="noopener noreferrer">
     <img src="https://raw.githubusercontent.com/galexy727/galexy727/media/wallpapers/index.html%3Frandom" alt="Random Wallpaper"/></a>
+  <!--END_SECTION:update_image-->
 </details>
 
 <!--
