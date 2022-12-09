@@ -1,9 +1,9 @@
 name: update media
 
 on:
-  # run automatically every 24 hours
+  # run automatically every 12 hours
   schedule:
-    - cron: "0 0 * * *" 
+    - cron: "0 */12 * * *" 
   
   # allows to manually run the job at any time
   workflow_dispatch:
@@ -29,22 +29,16 @@ jobs:
           outputs: |
             dist/github-contribution-grid-snake.svg?color_snake=#0abfff
             dist/github-contribution-grid-snake-dark.svg?palette=github-dark&color_snake=#0abfff
-       
-       
-      - name: download github-daily-wallpaper.jpg
-        uses: valitydev/action-download-file@v1
-        with:
-          url: https://minimalistic-wallpaper.demolab.com/?random&redirect=1
-          target-path: dist/wallpapers/
       
       # push the content of <build_dir> to a branch
       # the content will be available at https://raw.githubusercontent.com/<github_user>/<repository>/<target_branch>/<file> , or as github page
       - name: push github-contribution-grid-snake.svg to the output branch
         uses: crazy-max/ghaction-github-pages@v2.6.0
         with:
+        # add the following files to main branch under the media folder, keeping the history but removing the files with the same name
           target_branch: media
           build_dir: dist
-          keep_history: false
+          keep_history: true # dangerous, but default
           commit_message: Update the daily wallpaper and commit graph
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
