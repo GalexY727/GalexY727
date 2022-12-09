@@ -29,7 +29,7 @@
 <details> 
   <summary><h2>🌠 Wallpaper of the Day</h2></summary>
   <!--START_SECTION:update_image-->
-<img src=https://raw.githubusercontent.com/DenverCoder1/minimalistic-wallpaper-collection/main/images/redditislikefb-astral-summit.png height=180px width=180px align=right alt=Image ALT />
+<img src=https://raw.githubusercontent.com/DenverCoder1/minimalistic-wallpaper-collection/main/images/redditislikefb-astral-summit.png height=540px width=960px align=center alt=Image ALT />
 <!--END_SECTION:update_image-->
 </details>
 
