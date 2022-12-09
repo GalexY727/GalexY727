@@ -15,23 +15,23 @@
   <!-- Github Stats -->
   <a href="https://github.com/anuraghazra/github-readme-stats" target="_blank" rel="noopener noreferrer">
     <img src="https://github-readme-stats.vercel.app/api?username=galexy727&show_icons=true&theme=tokyonight" alt="Github Stats" /></a>
-  <!-- Most used Langs -->
-  <a href="https://github.com/anuraghazra/github-readme-stats#top-languages-card">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=galexy727&layout=compact&theme=tokyonight" alt="Favorite Languages"/></a>
               
 </p>
-
-
-<!-- Commit Snake! -->
-  ![github contribution grid snake animation](https://raw.githubusercontent.com/galexy727/galexy727/media/github-contribution-grid-snake-dark.svg#gh-dark-mode-only)![github contribution grid snake animation](https://raw.githubusercontent.com/galexy727/galexy727/media/github-contribution-grid-snake.svg#gh-light-mode-only)
 
 <!-- Random Wallpaper -->
 <details open> 
   <summary><h2>🌠 Wallpaper of the Day</h2></summary>
   <!--START_SECTION:update_image-->
-<img src=https://raw.githubusercontent.com/DenverCoder1/minimalistic-wallpaper-collection/main/images/Electronic_Sample_96-calm-night.png height=100% width=100% align=center alt=Daily Wallpaper />
-<!--END_SECTION:update_image-->
+  <img src=https://raw.githubusercontent.com/DenverCoder1/minimalistic-wallpaper-collection/main/images/Electronic_Sample_96-calm-night.png height=100% width=100% align=center alt=Daily Wallpaper />
+  <!--END_SECTION:update_image-->
 </details>
+
+<!-- Commit Snake! -->
+  ![github contribution grid snake animation](https://raw.githubusercontent.com/galexy727/galexy727/media/github-contribution-grid-snake-dark.svg#gh-dark-mode-only)![github contribution grid snake animation](https://raw.githubusercontent.com/galexy727/galexy727/media/github-contribution-grid-snake.svg#gh-light-mode-only)
+
+<!-- Most used Langs -->
+  ![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=galexy727&theme=tokyonight)
+
 
 <!--
 **GalexY727/GalexY727** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
