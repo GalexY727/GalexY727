@@ -14,6 +14,7 @@ jobs:
       - uses: siddharth2016/update-readme-image@main
         with:
           WIDTH: "100%"
+          HEIGHT: "100%"
           ALIGN: center # duhhh
           IMG_ALT: Daily Wallpaper
           IMG_PATH: images
