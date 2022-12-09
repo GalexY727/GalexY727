@@ -26,7 +26,7 @@
   ![github contribution grid snake animation](https://raw.githubusercontent.com/galexy727/galexy727/media/github-contribution-grid-snake-dark.svg#gh-dark-mode-only)![github contribution grid snake animation](https://raw.githubusercontent.com/galexy727/galexy727/media/github-contribution-grid-snake.svg#gh-light-mode-only)
 
 <!-- Random Wallpaper -->
-<details> 
+<details open> 
   <summary><h2>🌠 Wallpaper of the Day</h2></summary>
   <!--START_SECTION:update_image-->
 <img src=https://raw.githubusercontent.com/DenverCoder1/minimalistic-wallpaper-collection/main/images/redditislikefb-astral-summit.png width=1920px align=center alt=Image ALT />

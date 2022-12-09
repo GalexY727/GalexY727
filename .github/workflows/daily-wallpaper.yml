@@ -1,4 +1,4 @@
-name: Update daily wallpaper in readme
+name: Update daily wallpaper
 
 on:
   workflow_dispatch:
