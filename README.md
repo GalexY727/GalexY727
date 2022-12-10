@@ -15,6 +15,9 @@
   <!-- Github Stats -->
   <a href="https://github.com/anuraghazra/github-readme-stats" target="_blank" rel="noopener noreferrer">
     <img src="https://github-readme-stats.vercel.app/api?username=galexy727&show_icons=true&theme=tokyonight" width="49%" alt="Github Stats" /></a>
+  <!-- Most Used Langs -->
+  <a href="https://github.com/anuraghazra/github-readme-stats" taret="_blank" rel="noopener noreferrer">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=galexy727&theme=tokyonight" align=center width=30% alt="Favorite Languages" /></a>
               
 </p>
 
@@ -28,10 +31,6 @@
 
 <!-- Commit Snake! -->
   ![github contribution grid snake animation](https://raw.githubusercontent.com/galexy727/galexy727/media/github-contribution-grid-snake-dark.svg#gh-dark-mode-only)![github contribution grid snake animation](https://raw.githubusercontent.com/galexy727/galexy727/media/github-contribution-grid-snake.svg#gh-light-mode-only)
-
-<!-- Most used Langs -->
-  ![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=galexy727&theme=tokyonight)
-
 
 <!--
 **GalexY727/GalexY727** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
