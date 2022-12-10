@@ -11,10 +11,10 @@
 
   <!-- Github Streak -->
   <a href="https://git.io/streak-stats" target="_blank" rel="noopener noreferrer">
-    <img src="https://streak-stats.demolab.com?user=GalexY&theme=tokyonight_duo&mode=weekly&border=DD2BC7" alt="Github Streak" /></a>
+    <img src="https://streak-stats.demolab.com?user=GalexY&theme=tokyonight_duo&mode=weekly&border=DD2BC7" width="49%" alt="Github Streak" /></a>
   <!-- Github Stats -->
   <a href="https://github.com/anuraghazra/github-readme-stats" target="_blank" rel="noopener noreferrer">
-    <img src="https://github-readme-stats.vercel.app/api?username=galexy727&show_icons=true&theme=tokyonight" alt="Github Stats" /></a>
+    <img src="https://github-readme-stats.vercel.app/api?username=galexy727&show_icons=true&theme=tokyonight" width="49%" alt="Github Stats" /></a>
               
 </p>
 
