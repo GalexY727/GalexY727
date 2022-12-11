@@ -19,10 +19,10 @@
     <img src="https://streak-stats.demolab.com?user=GalexY&theme=tokyonight&mode=weekly&border=DD2BC7" width="49%" alt="Github Streak" /></a>
   <!-- Github Stats -->
   <a href="https://github.com/anuraghazra/github-readme-stats" target="_blank" rel="noopener noreferrer">
-    <img src="https://github-readme-stats.vercel.app/api?username=galexy727&show_icons=true&theme=tokyonight" width="49%" alt="Github Stats" /></a>
+    <img src="https://github-readme-stats.vercel.app/api?username=galexy727&show_icons=true&theme=tokyonight&border_color=DD2BC7" width="49%" alt="Github Stats" /></a>
   <!-- Most Used Langs -->
   <a href="https://github.com/anuraghazra/github-readme-stats" taret="_blank" rel="noopener noreferrer">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=galexy727&theme=tokyonight" width=30% alt="Favorite Languages" /></a>
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=galexy727&theme=tokyonight&border_color=DD2BC7" width=30% alt="Favorite Languages" /></a>
 
 </p>
 
@@ -36,6 +36,9 @@
 
 <!-- Commit Snake! -->
   ![github contribution grid snake animation](https://raw.githubusercontent.com/galexy727/galexy727/media/github-contribution-grid-snake-dark.svg#gh-dark-mode-only)![github contribution grid snake animation](https://raw.githubusercontent.com/galexy727/galexy727/media/github-contribution-grid-snake.svg#gh-light-mode-only)
+  
+<!-- Visits! -->
+[![Visits](https://komarev.com/ghpvc/?username=galexy727&logo=GitHub&label=GitHub%20visits&color=70a4fc&logoColor=white&style=flat)](https://github.com/galexy727)
 <!--
 **GalexY727/GalexY727** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
