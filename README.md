@@ -12,7 +12,7 @@
   
   <!-- Spotify -->
   <a href="https://open.spotify.com/user/ekalpoa9m05w5lpjj8p56ase2" taret="_blank" rel="noopener noreferrer">
-    <img src="https://galexy727.vercel.app/api/spotify?background_color=1a1b27&border_color=DD2BC7" height=150px alt="Spotify Now Playing"/></a>
+    <img src="https://galexy727.vercel.app/api/spotify?background_color=1a1b27&border_color=DD2BC7" alt="Spotify Now Playing"/></a>
   
   <br>
   
