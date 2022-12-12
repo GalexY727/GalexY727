@@ -9,7 +9,35 @@
   <a href="https://git.io/typing-svg" target="_blank" rel="noopener noreferrer">
     <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&pause=1000&center=true&vCenter=true&width=870&height=100&lines=My+name+is+Alexander+Hamilton+%F0%9F%91%8B;I+code+robots+for+F.I.R.S.T.+competitions+%F0%9F%A4%96;I+am+learning+Java%2C+JavaScript%2C+and+Pyhton+%F0%9F%90%8D;I+really+like+music+and+space+%F0%9F%8C%8C;Have+a+nice+day!" alt="About me" /></a>
   <br>
+</p>
+
+#### 🛠 UTILITIES:
+
+<p>
+  <code><img width="4%" src="https://www.vectorlogo.zone/logos/java/java-icon.svg"></code>
+  <code><img width="4%" src="https://www.vectorlogo.zone/logos/nodejs/nodejs-icon.svg"></code>
+  <code><img width="4%" src="https://www.vectorlogo.zone/logos/reactjs/reactjs-icon.svg"></code>
+  <code><img width="4%" src="https://www.vectorlogo.zone/logos/python/python-icon.svg"></code>
+  <code><img width="4%" src="https://www.vectorlogo.zone/logos/w3_html5/w3_html5-icon.svg"></code>
+  <code><img width="4%" src="https://i.imgur.com/tjPOPhB.png"></code>
+  <code><img width="4%" src="https://cdn.iconscout.com/icon/free/png-256/discord-4408614-3649972.png"></code>
+  <code><img width="4%" src="https://seeklogo.com/images/I/intellij-idea-logo-F0395EF783-seeklogo.com.png"></code>
+  <code><img width="4%" src="https://www.vectorlogo.zone/logos/visualstudio_code/visualstudio_code-icon.svg"></code>
+  <code><img width="4%" src="https://www.bluej.org/objects-first/images/logos/bluej-128-embossed.png"></code>
+  <code><img width="4%" src="https://seeklogo.com/images/A/atom-logo-19BD90FF87-seeklogo.com.png"></code>
+  <code><img width="4%" src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/af/Adobe_Photoshop_CC_icon.svg/640px-Adobe_Photoshop_CC_icon.svg.png"></code>
+  <code><img width="4%" src="https://upload.wikimedia.org/wikipedia/commons/5/55/Neos_VR_Logo.png"></code>
+  <code><img width="4%" src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg"></code>
+  <code><img width="4%" src="https://www.vectorlogo.zone/logos/amazon_aws/amazon_aws-icon.svg"></code>
+  <code><img width="4%" src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg"></code>
+  <code><img width="4%" src="https://seeklogo.com/images/G/github-colored-logo-FDDF6EB1F0-seeklogo.com.png"></code>
   
+</p>
+
+---
+
+<p align="center">
+ 
   <!-- Spotify -->
   <a href="https://open.spotify.com/user/ekalpoa9m05w5lpjj8p56ase2" taret="_blank" rel="noopener noreferrer">
     <img src="https://galexy727.vercel.app/api/spotify?background_color=1a1b27&border_color=DD2BC7" alt="Spotify Now Playing"/></a>
