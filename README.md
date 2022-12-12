@@ -44,7 +44,7 @@
   <!-- Spotify -->
   <a href="https://open.spotify.com/user/ekalpoa9m05w5lpjj8p56ase2" taret="_blank" rel="noopener noreferrer">
     <img src="https://galexy727.vercel.app/api/spotify?background_color=1a1b27&border_color=DD2BC7" 
-         alt="Spotify Now Playing"/>
+         width=50% alt="Spotify Now Playing"/>
   </a>
 
   <br>
@@ -83,10 +83,10 @@
 ---
 
 <!-- Commit Snake! -->
-  ![github contribution grid snake animation](https://raw.githubusercontent.com/galexy727/galexy727/media/github-contribution-grid-snake-dark.svg#gh-dark-mode-only)![github contribution grid snake animation](https://raw.githubusercontent.com/galexy727/galexy727/media/github-contribution-grid-snake.svg#gh-light-mode-only)
+![github contribution grid snake animation](https://raw.githubusercontent.com/galexy727/galexy727/media/github-contribution-grid-snake-dark.svg#gh-dark-mode-only)![github contribution grid snake animation](https://raw.githubusercontent.com/galexy727/galexy727/media/github-contribution-grid-snake.svg#gh-light-mode-only)
   
 <!-- Visits! -->
-[![Visits](https://komarev.com/ghpvc/?username=galexy727&logo=GitHub&label=GitHub%20visits&color=70a4fc&logoColor=white&style=flat)](https://github.com/galexy727)
+[![Visits](https://komarev.com/ghpvc/?username=galexy727&logo=GitHub&label=Profile%20views&color=70a4fc&logoColor=white&style=flat)](https://github.com/galexy727)
 <!--
 **GalexY727/GalexY727** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
