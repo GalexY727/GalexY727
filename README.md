@@ -56,7 +56,7 @@
   </a>
   <!-- Github Streak -->
   <a href="https://git.io/streak-stats" target="_blank" rel="noopener noreferrer">
-    <img src="https://streak-stats.demolab.com?user=GalexY&theme=tokyonight&mode=weekly&border=DD2BC7" 
+    <img src="https://streak-stats.demolab.com?user=GalexY727&theme=tokyonight&mode=weekly&border=DD2BC7" 
          width="49%" alt="Github Streak" />
   </a>
 
