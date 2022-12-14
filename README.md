@@ -59,13 +59,14 @@
          width="49%" alt="Github Streak" />
   </a>
 
-  <br>
 
   <!-- Most Used Langs -->
+  <!--
+  <br>
   <a href="https://github.com/anuraghazra/github-readme-stats" taret="_blank" rel="noopener noreferrer">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=galexy727&theme=tokyonight&border_color=DD2BC7" 
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=galexy727&layout=compact&theme=tokyonight&border_color=DD2BC7" 
          width="33%" alt="Favorite Languages" />
-  </a>
+  </a> -->
   
   <br>
   
