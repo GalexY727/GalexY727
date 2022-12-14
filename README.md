@@ -8,7 +8,6 @@
   <!-- Typing SVG -->
   <a href="https://git.io/typing-svg" target="_blank" rel="noopener noreferrer">
     <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&pause=1000&center=true&vCenter=true&width=870&height=100&lines=My+name+is+Alexander+Hamilton+%F0%9F%91%8B;I+code+robots+for+F.I.R.S.T.+competitions+%F0%9F%A4%96;I+am+learning+Java%2C+JavaScript%2C+and+Pyhton+%F0%9F%90%8D;I+really+like+music+and+space+%F0%9F%8C%8C;Have+a+nice+day!" alt="About me" /></a>
-  <br>
 </p>
 
 <details open>
@@ -67,6 +66,16 @@
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=galexy727&theme=tokyonight&border_color=DD2BC7" 
          width="33%" alt="Favorite Languages" />
   </a>
+  
+  <br>
+  
+  <!-- Commit Snake! -->
+  <a>
+    <img src="https://raw.githubusercontent.com/galexy727/galexy727/media/github-contribution-grid-snake-dark.svg#gh-dark-mode-only" />
+  </a>
+  <a>
+    <img src="https://raw.githubusercontent.com/galexy727/galexy727/media/github-contribution-grid-snake.svg#gh-light-mode-only" />
+  </a>
 </p>
 </details>
 
@@ -75,18 +84,21 @@
 <!-- Random Wallpaper -->
 <details open> 
   <summary><h2>🌠 Wallpaper of the Day</h2></summary>
-  <!--START_SECTION:update_image-->
+<!--START_SECTION:update_image-->
 <img src=https://raw.githubusercontent.com/DenverCoder1/minimalistic-wallpaper-collection/main/images/tienphat-night-landscape.jpg height=100% width=100% align=center alt=Daily Wallpaper />
 <!--END_SECTION:update_image-->
+
 </details>
 
 ---
 
-<!-- Commit Snake! -->
-![github contribution grid snake animation](https://raw.githubusercontent.com/galexy727/galexy727/media/github-contribution-grid-snake-dark.svg#gh-dark-mode-only)![github contribution grid snake animation](https://raw.githubusercontent.com/galexy727/galexy727/media/github-contribution-grid-snake.svg#gh-light-mode-only)
-  
+<!-- Space core refrence -->
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+code&size=12&duration=1000&pause=1500&color=F7AA2C&width=600&height=50&lines=What's+your+favorite+thing+about+space%3F+Mine+is+space.;Space.+Space.+Go+to+space.;Space.;Space+going+to+space+can't+wait.;Space+Court.+For+people+in+space.+Judge+space+sun+presiding.+Bam.+Guilty.;Space...+Space+Trial.+Puttin'+the+system+on+trial.+In+space.+Space+system.+;On+trial.+Guilty.+Of+being+in+space!+Going+to+space+jail!;Dad!+I'm+in+space!;%5Blow-pitched+'space'+voice%5D+I'm+proud+of+you%2C+son.+;%5Bnormal+voice%5D+Dad%2C+are+you+space%3F+;%5Blow-pitched+'space'+voice%5D+Yes.+Now+we+are+a+family+again.;%5Bnormal+voice%5D+Space+space+wanna+go+to+space+yes+please+space.+Space+space.;Space+space+wanna+go+to+space+wanna+go+to+space+wanna+go+to+space.;Space+space+going+to+space+oh+boy;Ba!+Ba!+Ba+ba+ba!+Space!+Ba!+Ba!+Ba+ba+ba!;Oh.+Play+it+cool.+Play+it+cool.+Here+come+the+space+cops.;Help+me%2C+space+cops.+Space+cops%2C+help.;Going+to+space+going+there+can't+wait+gotta+go.+Space.+Going.;Better+buy+a+telescope.+Wanna+see+me.+Buy+a+telescope.+Gonna+be+in+space.;Yeah+yeah+yeah+okay+okay.;Space.+Space.+Gonna+go+to+space.;Yes.+Please.+Space!+Gonna+be+in+space.;Gonna+be+in+space.;Wanna+go+to+space.+Space.+Let's+go+-+let's+go+to+space.+Let's+go+to+space.;Atmosphere.+Black+holes.+Astronauts.+Nebulas.+Jupiter.+The+Big+Dipper.;Orbit.+Space+orbit.+In+my+spacesuit.;Ohhh%2C+the+Sun.+I'm+gonna+meet+the+Sun.+Oh+no!+What'll+I+say%3F+'Hi!+Hi%2C+Sun!';Look%2C+an+eclipse!+No.+Don't+look.;Come+here%2C+space.+I+have+a+secret+for+you.+No%2C+come+closer.;There's+a+star.+There's+another+one.+Star.+Star+star+star.+Star.;You+are+the+farthest+ever+in+space.+Why+me%2C+space%3F+Because+you+are+the+best.;Ohmygodohmygodohmygod!+I'm+in+space!;We+made+it+we+made+it+we+made+it.+Space!;Earth.+Wanna+go+to+earth+wanna+go+to+earth+wanna+go+to+earth.+Home+home+home.;Wanna+go+home+wanna+go+home+wanna+go+home+wanna+go+home.;Earth+earth+earth.;Don't+like+space.+Don't+like+space.;It's+too+big.+Too+big.+Wanna+go+home.+Wanna+go+to+earth.;YEEEHAAAAAW!" alt="Typing SVG" /></a>
+
 <!-- Visits! -->
 [![Visits](https://komarev.com/ghpvc/?username=galexy727&logo=GitHub&label=Profile%20views&color=70a4fc&logoColor=white&style=flat)](https://github.com/galexy727)
+
+
 <!--
 **GalexY727/GalexY727** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
