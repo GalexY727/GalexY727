@@ -69,6 +69,10 @@
   </a> -->
   
   <br>
+  <!--Achievments-->
+  <a>
+    <img src="https://github-profile-trophy.vercel.app/?username=galexy727&theme=tokyonight&column=-1&title=Commits,Repositories,Issues,PullRequest,Followers,Stars&no-frame=true&margin-w=5" />
+  </a>
   
   <!-- Commit Snake! -->
   <a>
