@@ -3,8 +3,8 @@ name: Update daily wallpaper
 on:
   workflow_dispatch:
   schedule:
-    # Runs at 19 UTC everyday
-    - cron: "0 19 * * *"
+    # Runs at 8:00 UTC everyday - midnight in PST
+    - cron: "0 8 * * *"
 
 jobs:
   update-readme:
