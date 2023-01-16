@@ -45,19 +45,24 @@
     <img src="https://galexy727.vercel.app/api/spotify?background_color=1a1b27&border_color=DD2BC7" 
          alt="Spotify Now Playing"/>
   </a>
+  <a href="https://git.io/streak-stats" target="_blank" rel="noopener noreferrer">
+    <img src="https://streak-stats.demolab.com?user=GalexY727&theme=tokyonight&mode=daily&border=DD2BC7" 
+         width="43%" alt="Github Streak" />
+  </a>
 
   <br>
 
-  <!-- Github Stats -->
+  <!-- Github Stats 
   <a href="https://github.com/anuraghazra/github-readme-stats" target="_blank" rel="noopener noreferrer">
     <img src="https://github-readme-stats.vercel.app/api?username=galexy727&show_icons=true&theme=tokyonight&border_color=DD2BC7" 
          width="49%" alt="Github Stats" />
   </a>
-  <!-- Github Streak -->
+  <!-- Github Streak
   <a href="https://git.io/streak-stats" target="_blank" rel="noopener noreferrer">
     <img src="https://streak-stats.demolab.com?user=GalexY727&theme=tokyonight&mode=daily&border=DD2BC7" 
          width="49%" alt="Github Streak" />
   </a>
+   -->
 
 
   <!-- Most Used Langs -->
