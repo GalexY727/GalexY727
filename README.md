@@ -41,8 +41,12 @@
 <p align="center">
 
   <!-- Spotify -->
-  <a href="https://open.spotify.com/user/ekalpoa9m05w5lpjj8p56ase2" taret="_blank" rel="noopener noreferrer">
+  <a href="https://open.spotify.com/user/ekalpoa9m05w5lpjj8p56ase2#gh-dark-mode-only" taret="_blank" rel="noopener noreferrer">
     <img src="https://galexy727.vercel.app/api/spotify?background_color=1a1b27&border_color=DD2BC7" 
+         alt="I love Spotify!"/>
+  </a>
+   <a href="https://open.spotify.com/user/ekalpoa9m05w5lpjj8p56ase2#gh-light-mode-only" taret="_blank" rel="noopener noreferrer">
+    <img src="https://galexy727.vercel.app/api/spotify?background_color=78d5f7&border_color=DD2BC7" 
          alt="I love Spotify!"/>
   </a>
   <!--
@@ -50,18 +54,27 @@
     <img src="https://streak-stats.demolab.com?user=GalexY727&theme=tokyonight&mode=daily&border=DD2BC7" 
          width="43%" alt="Github Streak" />
   </a>
+#gh-light-mode-only buefy
   -->
 
   <br>
 
   <!-- Github Stats -->
-  <a href="https://github.com/anuraghazra/github-readme-stats" target="_blank" rel="noopener noreferrer">
+  <a href="https://github.com/anuraghazra/github-readme-stats#gh-dark-mode-only" target="_blank" rel="noopener noreferrer">
     <img src="https://github-readme-stats.vercel.app/api?username=galexy727&show_icons=true&theme=tokyonight&border_color=DD2BC7" 
          width="49%" alt="My GitHub Stats were once here..." />
   </a>
+    <a href="https://github.com/anuraghazra/github-readme-stats#gh-light-mode-only" target="_blank" rel="noopener noreferrer">
+    <img src="https://github-readme-stats.vercel.app/api?username=galexy727&show_icons=true&theme=buefy&border_color=DD2BC7" 
+         width="49%" alt="My GitHub Stats were once here..." />
+  </a>
   <!-- Github Streak -->
-  <a href="https://git.io/streak-stats" target="_blank" rel="noopener noreferrer">
+  <a href="https://git.io/streak-stats#gh-dark-mode-only" target="_blank" rel="noopener noreferrer">
     <img src="https://streak-stats.demolab.com?user=GalexY727&theme=tokyonight&mode=daily&border=DD2BC7" 
+         width="49%" alt="My GitHub Streak was once here..." />
+  </a>
+    <a href="https://git.io/streak-stats#gh-light-mode-only" target="_blank" rel="noopener noreferrer">
+    <img src="https://streak-stats.demolab.com?user=GalexY727&theme=buefy&mode=daily&border=DD2BC7" 
          width="49%" alt="My GitHub Streak was once here..." />
   </a>
    
@@ -77,8 +90,12 @@
   
   <br>
   <!--Achievments-->
-  <a>
+  <a href="https://github.com/ryo-ma/github-profile-trophy#gh-dark-mode-only">
     <img src="https://github-profile-trophy.vercel.app/?username=galexy727&theme=tokyonight&column=-1&title=Commits,Repositories,Issues,PullRequest,Followers,Stars&no-frame=true&margin-w=5" 
+         alt="GitHub achievment showcase was one here..." />
+  </a>
+  <a href="https://github.com/ryo-ma/github-profile-trophy#gh-light-mode-only">
+    <img src="https://github-profile-trophy.vercel.app/?username=galexy727&theme=flat&column=-1&title=Commits,Repositories,Issues,PullRequest,Followers,Stars&no-frame=true&margin-w=5" 
          alt="GitHub achievment showcase was one here..." />
   </a>
   
