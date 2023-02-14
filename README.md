@@ -1,4 +1,4 @@
-
+![---](https://github.com/GalexY727/GalexY727/blob/main/media/DripBanner.png)
 <p align="center">
 
   <!-- Gif -->
