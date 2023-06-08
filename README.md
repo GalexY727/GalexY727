@@ -46,7 +46,7 @@
          alt="I love Spotify!"/>
   </a>
    <a href="https://open.spotify.com/user/ekalpoa9m05w5lpjj8p56ase2#gh-light-mode-only" taret="_blank" rel="noopener noreferrer">
-    <img src="https://galexy727.vercel.app/api/spotify?background_color=78d5f7&border_color=DD2BC7" 
+    <img src="https://galexy727.vercel.app/api/spotify?background_color=C7CBFF&border_color=DD2BC7" 
          alt="I love Spotify!"/>
   </a>
   <!--
