@@ -7,7 +7,7 @@
     
   <!-- Typing SVG -->
   <a href="https://git.io/typing-svg" target="_blank" rel="noopener noreferrer">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&pause=1000&center=true&vCenter=true&width=870&height=100&lines=My+name+is+Alexander+Hamilton+%F0%9F%91%8B;I+code+robots+for+F.I.R.S.T.+competitions+%F0%9F%A4%96;I+am+learning+Java%2C+JavaScript%2C+and+Pyhton+%F0%9F%90%8D;I+really+like+music+and+space+%F0%9F%8C%8C;Have+a+nice+day!" alt="I made a little svg about me... (it got stuck loading) :(" /></a>
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&pause=1000&center=true&vCenter=true&width=870&height=100&lines=My+name+is+Alexander+Hamilton+%F0%9F%91%8B;I+code+robots+for+F.I.R.S.T.+competitions+%F0%9F%A4%96;I+am+learning+Java%2C+JavaScript%2C+and+Python+%F0%9F%90%8D;I+really+like+music+and+space+%F0%9F%8C%8C;Have+a+nice+day!" alt="I made a little svg about me... (it got stuck loading) :(" /></a>
 </p>
 
 <details open>
