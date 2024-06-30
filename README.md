@@ -77,26 +77,24 @@
     <img src="https://streak-stats.demolab.com?user=GalexY727&theme=buefy&mode=daily&border=DD2BC7" 
          width="49%" alt="My GitHub Streak was once here..." />
   </a>
-   
-
-
+  
   <!-- Most Used Langs -->
-  <!--
+
   <br>
   <a href="https://github.com/anuraghazra/github-readme-stats" taret="_blank" rel="noopener noreferrer">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=galexy727&layout=compact&theme=tokyonight&border_color=DD2BC7" 
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=galexy727&layout=donut&theme=tokyonight&border_color=DD2BC7" 
          width="33%" alt="Favorite Languages" />
-  </a> -->
-  
+  </a>
   <br>
-  <!--Achievments-->
+  
+  <!--Achievements-->
   <a href="https://github.com/ryo-ma/github-profile-trophy#gh-dark-mode-only">
     <img src="https://github-profile-trophy.vercel.app/?username=galexy727&theme=tokyonight&column=-1&title=Commits,Repositories,Issues,PullRequest,Followers,Stars&no-frame=true&margin-w=5" 
-         alt="GitHub achievment showcase was one here..." />
+         alt="GitHub achievement showcase was one here..." />
   </a>
   <a href="https://github.com/ryo-ma/github-profile-trophy#gh-light-mode-only">
     <img src="https://github-profile-trophy.vercel.app/?username=galexy727&theme=flat&column=-1&title=Commits,Repositories,Issues,PullRequest,Followers,Stars&no-frame=true&margin-w=5" 
-         alt="GitHub achievment showcase was one here..." />
+         alt="GitHub achievement showcase was one here..." />
   </a>
   
   <!-- Commit Snake! -->
