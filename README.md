@@ -129,7 +129,7 @@
 
 <!-- Visits! -->
 [![Visits](https://komarev.com/ghpvc/?username=galexy727&logo=GitHub&label=Profile%20views&color=70a4fc&logoColor=white&style=flat)](https://github.com/galexy727)
-
+![](https://hit.yhype.me/github/profile?user_id=65139378)
 
 <!--
 **GalexY727/GalexY727** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
