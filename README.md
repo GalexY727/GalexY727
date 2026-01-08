@@ -13,24 +13,22 @@
 <details open>
   <summary><h2>🛠 Skills and Tools</h2></summary>
   <p>
-    <code><img width="4%" src="https://www.vectorlogo.zone/logos/java/java-icon.svg"></code>
-    <code><img width="4%" src="https://www.vectorlogo.zone/logos/nodejs/nodejs-icon.svg"></code>
-    <code><img width="4%" src="https://www.vectorlogo.zone/logos/reactjs/reactjs-icon.svg"></code>
-    <code><img width="4%" src="https://www.vectorlogo.zone/logos/python/python-icon.svg"></code>
-    <code><img width="4%" src="https://www.freeiconspng.com/uploads/c-logo-icon-18.png"></code>
-    <code><img width="4%" src="https://www.vectorlogo.zone/logos/w3_html5/w3_html5-icon.svg"></code>
-    <code><img width="4%" src="https://i.imgur.com/tjPOPhB.png"></code>
-    <code><img width="4%" src="https://seeklogo.com/images/I/intellij-idea-logo-F0395EF783-seeklogo.com.png"></code>
-    <code><img width="4%" src="https://www.vectorlogo.zone/logos/visualstudio_code/visualstudio_code-icon.svg"></code>
-    <code><img width="4%" src="https://www.bluej.org/objects-first/images/logos/bluej-128-embossed.png"></code>
-    <code><img width="4%" src="https://seeklogo.com/images/A/atom-logo-19BD90FF87-seeklogo.com.png"></code>
-    <code><img width="4%" src="https://cdn.iconscout.com/icon/free/png-256/discord-4408614-3649972.png"></code>
-    <code><img width="4%" src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/af/Adobe_Photoshop_CC_icon.svg/640px-Adobe_Photoshop_CC_icon.svg.png"></code>
-    <code><img width="4%" src="https://upload.wikimedia.org/wikipedia/commons/5/55/Neos_VR_Logo.png"></code>
-    <code><img width="4%" src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg"></code>
-    <code><img width="4%" src="https://www.vectorlogo.zone/logos/amazon_aws/amazon_aws-icon.svg"></code>
-    <code><img width="4%" src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg"></code>
-    <code><img width="4%" src="https://seeklogo.com/images/G/github-colored-logo-FDDF6EB1F0-seeklogo.com.png"></code>
+    <code><img width="4%" src="https://raw.githubusercontent.com/GalexY727/GalexY727/main/media/skills/java-plain.svg"></code>
+    <code><img width="4%" src="https://raw.githubusercontent.com/GalexY727/GalexY727/main/media/skills/nodejs-plain.svg"></code>
+    <code><img width="4%" src="https://raw.githubusercontent.com/GalexY727/GalexY727/main/media/skills/react-original.svg"></code>
+    <code><img width="4%" src="https://raw.githubusercontent.com/GalexY727/GalexY727/main/media/skills/python-plain.svg"></code>
+    <code><img width="4%" src="https://raw.githubusercontent.com/GalexY727/GalexY727/main/media/skills/c-original.svg"></code>
+    <code><img width="4%" src="https://raw.githubusercontent.com/GalexY727/GalexY727/main/media/skills/html5-plain.svg"></code>
+    <code><img width="4%" src="https://raw.githubusercontent.com/GalexY727/GalexY727/main/media/skills/css3-plain.svg"></code>
+    <code><img width="4%" src="https://raw.githubusercontent.com/GalexY727/GalexY727/main/media/skills/intellij-plain.svg"></code>
+    <code><img width="4%" src="https://raw.githubusercontent.com/GalexY727/GalexY727/main/media/skills/vscode-plain.svg"></code>
+    <code><img width="4%" src="https://raw.githubusercontent.com/GalexY727/GalexY727/main/media/skills/atom-original.svg"></code>
+    <code><img width="4%" src="https://raw.githubusercontent.com/GalexY727/GalexY727/main/media/skills/discord-simple.svg"></code>
+    <code><img width="4%" src="https://raw.githubusercontent.com/GalexY727/GalexY727/main/media/skills/photoshop-plain.svg"></code>
+    <code><img width="4%" src="https://raw.githubusercontent.com/GalexY727/GalexY727/main/media/skills/firebase-plain.svg"></code>
+    <code><img width="4%" src="https://raw.githubusercontent.com/GalexY727/GalexY727/main/media/skills/amazonwebservices-plain-wordmark.svg"></code>
+    <code><img width="4%" src="https://raw.githubusercontent.com/GalexY727/GalexY727/main/media/skills/git-plain.svg"></code>
+    <code><img width="4%" src="https://raw.githubusercontent.com/GalexY727/GalexY727/main/media/skills/github-original.svg"></code>
   </p>
 </details>
 
