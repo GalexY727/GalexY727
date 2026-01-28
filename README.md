@@ -74,11 +74,11 @@
   </a>
   <!-- Github Streak -->
   <a href="https://git.io/streak-stats#gh-dark-mode-only" target="_blank" rel="noopener noreferrer">
-    <img src="https://streak-stats.demolab.com?user=GalexY727&theme=tokyonight&mode=daily&border=DD2BC7" 
+    <img src="https://github-readme-streak-stats-fork.vercel.app?user=galexy727&theme=tokyonight&card_width=490&fire=EBEBEB&background=45%2C1A1B27%2C050608&stroke=4ACBEB&border=DD2BC7" 
          width="49%" alt="My GitHub Streak was once here..." />
   </a>
     <a href="https://git.io/streak-stats#gh-light-mode-only" target="_blank" rel="noopener noreferrer">
-    <img src="https://streak-stats.demolab.com?user=GalexY727&theme=buefy&mode=daily&border=DD2BC7" 
+    <img src="https://github-readme-streak-stats-fork.vercel.app/?user=GalexY727&theme=buefy&mode=weekly&border=DD2BC7" 
          width="49%" alt="My GitHub Streak was once here..." />
   </a>
   
