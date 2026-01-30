@@ -13,24 +13,25 @@
 <details open>
   <summary><h2>🛠 Skills and Tools</h2></summary>
   <p>
-    <code><img width="4%" src="https://www.vectorlogo.zone/logos/java/java-icon.svg"></code>
-    <code><img width="4%" src="https://www.vectorlogo.zone/logos/nodejs/nodejs-icon.svg"></code>
-    <code><img width="4%" src="https://www.vectorlogo.zone/logos/reactjs/reactjs-icon.svg"></code>
-    <code><img width="4%" src="https://www.vectorlogo.zone/logos/python/python-icon.svg"></code>
-    <code><img width="4%" src="https://www.freeiconspng.com/uploads/c-logo-icon-18.png"></code>
-    <code><img width="4%" src="https://www.vectorlogo.zone/logos/w3_html5/w3_html5-icon.svg"></code>
-    <code><img width="4%" src="https://i.imgur.com/tjPOPhB.png"></code>
-    <code><img width="4%" src="https://seeklogo.com/images/I/intellij-idea-logo-F0395EF783-seeklogo.com.png"></code>
-    <code><img width="4%" src="https://www.vectorlogo.zone/logos/visualstudio_code/visualstudio_code-icon.svg"></code>
-    <code><img width="4%" src="https://www.bluej.org/objects-first/images/logos/bluej-128-embossed.png"></code>
-    <code><img width="4%" src="https://seeklogo.com/images/A/atom-logo-19BD90FF87-seeklogo.com.png"></code>
-    <code><img width="4%" src="https://cdn.iconscout.com/icon/free/png-256/discord-4408614-3649972.png"></code>
-    <code><img width="4%" src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/af/Adobe_Photoshop_CC_icon.svg/640px-Adobe_Photoshop_CC_icon.svg.png"></code>
-    <code><img width="4%" src="https://upload.wikimedia.org/wikipedia/commons/5/55/Neos_VR_Logo.png"></code>
-    <code><img width="4%" src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg"></code>
-    <code><img width="4%" src="https://www.vectorlogo.zone/logos/amazon_aws/amazon_aws-icon.svg"></code>
-    <code><img width="4%" src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg"></code>
-    <code><img width="4%" src="https://seeklogo.com/images/G/github-colored-logo-FDDF6EB1F0-seeklogo.com.png"></code>
+    <code><img width="4%" src="media/skills/java.svg"></code>
+    <code><img width="4%" src="media/skills/python.svg"></code>
+    <code><img width="4%" src="media/skills/c.svg"></code>
+    <code><img width="4%" src="media/skills/c++.svg"></code>
+    <code><img width="4%" src="media/skills/html.svg"></code>
+    <code><img width="4%" src="media/skills/nodejs.svg"></code>
+    <code><img width="4%" src="media/skills/react.svg"></code>
+    <code><img width="4%" src="media/skills/expo.svg"></code>
+    <code><img width="4%" src="media/skills/aws.svg"></code>
+    <code><img width="4%" src="media/skills/firebase.svg"></code>
+    <code><img width="4%" src="media/skills/git.svg"></code>
+    <code><img width="4%" src="media/skills/github.svg"></code>
+    <code><img width="4%" src="media/skills/intellij.svg"></code>
+    <code><img width="4%" src="media/skills/vscode.svg"></code>
+    <code><img width="4%" src="media/skills/windowsterminal.svg"></code>
+    <code><img width="4%" src="media/skills/discord.svg"></code>
+    <code><img width="4%" src="media/skills/photoshop.svg"></code>
+    <code><img width="4%" src="media/skills/appsscript.svg"></code>
+    <code><img width="3%" src="media/skills/sheets.svg"></code>
   </p>
 </details>
 
