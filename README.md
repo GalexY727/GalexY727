@@ -65,7 +65,7 @@
 
   <!-- Github Stats -->
   <a href="https://github.com/anuraghazra/github-readme-stats#gh-dark-mode-only" target="_blank" rel="noopener noreferrer">
-    <img src="https://github-readme-stats.vercel.app/api?username=galexy727&show_icons=true&theme=tokyonight&border_color=DD2BC7" 
+    <img src="https://raw.githubusercontent.com/galexy727/galexy727/media/stats.svg" 
          width="49%" alt="My GitHub Stats were once here..." />
   </a>
     <a href="https://github.com/anuraghazra/github-readme-stats#gh-light-mode-only" target="_blank" rel="noopener noreferrer">
@@ -86,7 +86,7 @@
 
   <br>
   <a href="https://github.com/anuraghazra/github-readme-stats" taret="_blank" rel="noopener noreferrer">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=galexy727&layout=donut&theme=tokyonight&border_color=DD2BC7" 
+    <img src="https://raw.githubusercontent.com/galexy727/galexy727/media/top-langs.svg" 
          width="33%" alt="Favorite Languages" />
   </a>
   <br>
