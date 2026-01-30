@@ -39,7 +39,7 @@ jobs:
         with:
           card: wakatime
           # hardcode username since it differs
-          options: username=GalexY&layout=default&theme=city_lights&title_color=5fabee&text_color=382b48&border_color=DD2BC7&bg_color=45,050608,1A1B27&langs_count=5
+          options: username=GalexY&layout=default&theme=city_lights&title_color=5fabee&text_color=bf91f3&border_color=DD2BC7&bg_color=45,050608,1A1B27&langs_count=5
           path: dist/wakatime.svg
           token: ${{ secrets.GITHUB_TOKEN }}
           
