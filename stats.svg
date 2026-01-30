@@ -9,7 +9,7 @@
         aria-labelledby="descId"
       >
         <title id="titleId">Alexander Hamilton's GitHub Stats, Rank: B+</title>
-        <desc id="descId">Total Stars Earned: 9, Total Commits  : 1559, Total PRs: 92, Total Issues: 201, Contributed to (last year): 9</desc>
+        <desc id="descId">Total Stars Earned: 9, Total Commits  : 1560, Total PRs: 92, Total Issues: 201, Contributed to (last year): 9</desc>
         <style>
           .header {
             font: 600 18px 'Segoe UI', Ubuntu, Sans-Serif;
@@ -73,7 +73,7 @@
         stroke-dashoffset: 251.32741228718345;
       }
       to {
-        stroke-dashoffset: 112.05647091340654;
+        stroke-dashoffset: 112.04662042416987;
       }
     }
   
@@ -102,6 +102,16 @@
         </style>
 
         
+        <defs>
+          <linearGradient
+            id="gradient"
+            gradientTransform="rotate(45)"
+            gradientUnits="userSpaceOnUse"
+          >
+            <stop offset="0%" stop-color="#050608" />,<stop offset="100%" stop-color="#1A1B27" />
+          </linearGradient>
+        </defs>
+        
 
         <rect
           data-testid="card-bg"
@@ -111,7 +121,7 @@
           height="99%"
           stroke="#DD2BC7"
           width="449"
-          fill="#fffefe"
+          fill="url(#gradient)"
           stroke-opacity="1"
         />
 
