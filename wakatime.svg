@@ -13,7 +13,7 @@
         <style>
           .header {
             font: 600 18px 'Segoe UI', Ubuntu, Sans-Serif;
-            fill: #5FABEE;
+            fill: #5fabee;
             animation: fadeInAnimation 0.8s ease-in-out forwards;
           }
           @supports(-moz-appearance: auto) {
@@ -23,7 +23,7 @@
           
     
     .stat {
-      font: 600 14px 'Segoe UI', Ubuntu, "Helvetica Neue", Sans-Serif; fill: #D6E7FF;
+      font: 600 14px 'Segoe UI', Ubuntu, "Helvetica Neue", Sans-Serif; fill: #718CA1;
     }
     @supports(-moz-appearance: auto) {
       /* Selector detects Firefox */
@@ -52,7 +52,7 @@
         width: 100%;
       }
     }
-    .lang-name { font: 400 11px 'Segoe UI', Ubuntu, Sans-Serif; fill: #D6E7FF }
+    .lang-name { font: 400 11px 'Segoe UI', Ubuntu, Sans-Serif; fill: #718CA1 }
     #rect-mask rect{
       animation: slideInAnimation 1s ease-in-out forwards;
     }
@@ -139,11 +139,11 @@
       >659 hrs 15 mins</text>
       
     <svg width="220" x="110" y="4">
-      <rect rx="5" ry="5" x="0" y="0" width="220" height="8" fill="#D6E7FF"></rect>
+      <rect rx="5" ry="5" x="0" y="0" width="220" height="8" fill="#718CA1"></rect>
       <svg data-testid="lang-progress" width="70.55%">
         <rect
             height="8"
-            fill="#5FABEE"
+            fill="#5fabee"
             rx="5" ry="5" x="0" y="0"
             class="lang-progress"
             style="animation-delay: 750ms;"
@@ -162,11 +162,11 @@
       >114 hrs 43 mins</text>
       
     <svg width="220" x="110" y="4">
-      <rect rx="5" ry="5" x="0" y="0" width="220" height="8" fill="#D6E7FF"></rect>
+      <rect rx="5" ry="5" x="0" y="0" width="220" height="8" fill="#718CA1"></rect>
       <svg data-testid="lang-progress" width="12.28%">
         <rect
             height="8"
-            fill="#5FABEE"
+            fill="#5fabee"
             rx="5" ry="5" x="0" y="0"
             class="lang-progress"
             style="animation-delay: 900ms;"
@@ -185,11 +185,11 @@
       >79 hrs 42 mins</text>
       
     <svg width="220" x="110" y="4">
-      <rect rx="5" ry="5" x="0" y="0" width="220" height="8" fill="#D6E7FF"></rect>
+      <rect rx="5" ry="5" x="0" y="0" width="220" height="8" fill="#718CA1"></rect>
       <svg data-testid="lang-progress" width="8.53%">
         <rect
             height="8"
-            fill="#5FABEE"
+            fill="#5fabee"
             rx="5" ry="5" x="0" y="0"
             class="lang-progress"
             style="animation-delay: 1050ms;"
@@ -208,11 +208,11 @@
       >50 hrs 42 mins</text>
       
     <svg width="220" x="110" y="4">
-      <rect rx="5" ry="5" x="0" y="0" width="220" height="8" fill="#D6E7FF"></rect>
+      <rect rx="5" ry="5" x="0" y="0" width="220" height="8" fill="#718CA1"></rect>
       <svg data-testid="lang-progress" width="5.42%">
         <rect
             height="8"
-            fill="#5FABEE"
+            fill="#5fabee"
             rx="5" ry="5" x="0" y="0"
             class="lang-progress"
             style="animation-delay: 1200ms;"
@@ -231,11 +231,11 @@
       >30 hrs 28 mins</text>
       
     <svg width="220" x="110" y="4">
-      <rect rx="5" ry="5" x="0" y="0" width="220" height="8" fill="#D6E7FF"></rect>
+      <rect rx="5" ry="5" x="0" y="0" width="220" height="8" fill="#718CA1"></rect>
       <svg data-testid="lang-progress" width="3.26%">
         <rect
             height="8"
-            fill="#5FABEE"
+            fill="#5fabee"
             rx="5" ry="5" x="0" y="0"
             class="lang-progress"
             style="animation-delay: 1350ms;"
