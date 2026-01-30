@@ -20,7 +20,7 @@ jobs:
         with:
           card: stats
           options: username=${{ github.repository_owner }}&show_icons=true&theme=tokyonight&border_color=DD2BC7&include_all_commits=true&show_icons=true&bg_color=45,C050608,C1A1B27
-          path: stats.svg
+          path: dist/stats.svg
           token: ${{ secrets.GITHUB_TOKEN }}
 
       - name: Generate top languages card
@@ -28,7 +28,7 @@ jobs:
         with:
           card: top-langs
           options: username=${{ github.repository_owner }}&layout=donut&theme=tokyonight&border_color=DD2BC7&stats_format=bytes&hide=pawn,shaderlab,lua
-          path: top-langs.svg
+          path: dist/top-langs.svg
           token: ${{ secrets.GITHUB_TOKEN }}
 
       - name: Generate Wakatime card
@@ -36,7 +36,7 @@ jobs:
         with:
           card: wakatime
           options: username=${{ github.repository_owner }}&layout=compact&theme=tokyonight&border_color=DD2BC7
-          path: wakatime.svg
+          path: dist/wakatime.svg
           token: ${{ secrets.GITHUB_TOKEN }}
           
       # the content will be available at https://raw.githubusercontent.com/<github_user>/<repository>/<target_branch>/<file> , or as github page
