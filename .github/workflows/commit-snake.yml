@@ -38,7 +38,7 @@ jobs:
         # add the following files to main branch under the media folder, keeping the history but removing the files with the same name
           target_branch: media
           build_dir: dist
-          keep_history: false # dangerous, but default
+          keep_history: true # add compatibility for gh stats
           commit_message: Update the commit graph snake
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
