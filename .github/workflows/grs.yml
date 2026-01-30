@@ -1,0 +1,52 @@
+name: Update GitHub Stats
+
+on:
+  schedule:
+    - cron: "0 0 * * *" # Runs once daily at midnight
+  workflow_dispatch:
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+
+    permissions:
+      contents: write
+
+    steps:
+      - uses: actions/checkout@v6
+
+      - name: Generate stats card
+        uses: readme-tools/github-readme-stats-action@v1
+        with:
+          card: stats
+          options: username=${{ github.repository_owner }}&show_icons=true&theme=tokyonight&border_color=DD2BC7&include_all_commits=true&show_icons=true&bg_color=45,C050608,C1A1B27
+          path: stats.svg
+          token: ${{ secrets.GITHUB_TOKEN }}
+
+      - name: Generate top languages card
+        uses: readme-tools/github-readme-stats-action@v1
+        with:
+          card: top-langs
+          options: username=${{ github.repository_owner }}&layout=donut&theme=tokyonight&border_color=DD2BC7&stats_format=bytes&hide=pawn,shaderlab,lua
+          path: top-langs.svg
+          token: ${{ secrets.GITHUB_TOKEN }}
+
+      - name: Generate Wakatime card
+        uses: readme-tools/github-readme-stats-action@v1
+        with:
+          card: wakatime
+          options: username=${{ github.repository_owner }}&layout=compact&theme=tokyonight&border_color=DD2BC7
+          path: wakatime.svg
+          token: ${{ secrets.GITHUB_TOKEN }}
+          
+      # the content will be available at https://raw.githubusercontent.com/<github_user>/<repository>/<target_branch>/<file> , or as github page
+      - name: Push to media branch
+        uses: crazy-max/ghaction-github-pages@v2.6.0
+        with:
+        # add the following files to main branch under the media folder, keeping the history but removing the files with the same name
+          target_branch: media
+          build_dir: dist
+          keep_history: true # we also want commit-snake there
+          commit_message: Update GitHub stats
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
