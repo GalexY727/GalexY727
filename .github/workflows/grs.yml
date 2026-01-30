@@ -19,7 +19,7 @@ jobs:
         uses: readme-tools/github-readme-stats-action@v1
         with:
           card: stats
-          options: username=${{ github.repository_owner }}&show_icons=true&theme=tokyonight&border_color=DD2BC7&include_all_commits=true&show_icons=true&bg_color=45,050608,1A1B27
+          options: username=${{ github.repository_owner }}&show_icons=true&theme=tokyonight&border_color=DD2BC7&include_all_commits=true&bg_color=45,050608,1A1B27&hide=stars,contribs&show=prs_merged,reviews
           path: dist/stats.svg
           token: ${{ secrets.GITHUB_TOKEN }}
 
