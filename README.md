@@ -16,7 +16,6 @@
     <code><img width="4%" src="media/skills/java.svg"></code>
     <code><img width="4%" src="media/skills/python.svg"></code>
     <code><img width="4%" src="media/skills/c.svg"></code>
-    <code><img width="4%" src="media/skills/c++.svg"></code>
     <code><img width="4%" src="media/skills/html.svg"></code>
     <code><img width="4%" src="media/skills/nodejs.svg"></code>
     <code><img width="4%" src="media/skills/react.svg"></code>
