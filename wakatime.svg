@@ -23,7 +23,7 @@
           
     
     .stat {
-      font: 600 14px 'Segoe UI', Ubuntu, "Helvetica Neue", Sans-Serif; fill: #73939b;
+      font: 600 14px 'Segoe UI', Ubuntu, "Helvetica Neue", Sans-Serif; fill: #4d6267BF;
     }
     @supports(-moz-appearance: auto) {
       /* Selector detects Firefox */
@@ -52,7 +52,7 @@
         width: 100%;
       }
     }
-    .lang-name { font: 400 11px 'Segoe UI', Ubuntu, Sans-Serif; fill: #73939b }
+    .lang-name { font: 400 11px 'Segoe UI', Ubuntu, Sans-Serif; fill: #4d6267BF }
     #rect-mask rect{
       animation: slideInAnimation 1s ease-in-out forwards;
     }
@@ -139,7 +139,7 @@
       >659 hrs 15 mins</text>
       
     <svg width="220" x="110" y="4">
-      <rect rx="5" ry="5" x="0" y="0" width="220" height="8" fill="#73939b"></rect>
+      <rect rx="5" ry="5" x="0" y="0" width="220" height="8" fill="#4d6267BF"></rect>
       <svg data-testid="lang-progress" width="70.55%">
         <rect
             height="8"
@@ -162,7 +162,7 @@
       >114 hrs 43 mins</text>
       
     <svg width="220" x="110" y="4">
-      <rect rx="5" ry="5" x="0" y="0" width="220" height="8" fill="#73939b"></rect>
+      <rect rx="5" ry="5" x="0" y="0" width="220" height="8" fill="#4d6267BF"></rect>
       <svg data-testid="lang-progress" width="12.28%">
         <rect
             height="8"
@@ -185,7 +185,7 @@
       >79 hrs 42 mins</text>
       
     <svg width="220" x="110" y="4">
-      <rect rx="5" ry="5" x="0" y="0" width="220" height="8" fill="#73939b"></rect>
+      <rect rx="5" ry="5" x="0" y="0" width="220" height="8" fill="#4d6267BF"></rect>
       <svg data-testid="lang-progress" width="8.53%">
         <rect
             height="8"
@@ -208,7 +208,7 @@
       >50 hrs 42 mins</text>
       
     <svg width="220" x="110" y="4">
-      <rect rx="5" ry="5" x="0" y="0" width="220" height="8" fill="#73939b"></rect>
+      <rect rx="5" ry="5" x="0" y="0" width="220" height="8" fill="#4d6267BF"></rect>
       <svg data-testid="lang-progress" width="5.42%">
         <rect
             height="8"
@@ -231,7 +231,7 @@
       >30 hrs 28 mins</text>
       
     <svg width="220" x="110" y="4">
-      <rect rx="5" ry="5" x="0" y="0" width="220" height="8" fill="#73939b"></rect>
+      <rect rx="5" ry="5" x="0" y="0" width="220" height="8" fill="#4d6267BF"></rect>
       <svg data-testid="lang-progress" width="3.26%">
         <rect
             height="8"
