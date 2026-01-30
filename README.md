@@ -99,7 +99,7 @@
   
   <!--Achievements-->
   <a href="https://github.com/ryo-ma/github-profile-trophy#gh-dark-mode-only">
-    <img src="https://trophy.ryglcloud.net/?username=galexy727&theme=tokyonight&column=-1&title=-Joined2020,-Stars,-Followers&rank=-B,-C&no-frame=true&margin-w=5" 
+    <img src="https://trophy.ryglcloud.net/?username=galexy727&column=-1&title=-Joined2020,-Stars,-Followers&rank=-B,-C&no-frame=true&margin-w=5&theme=algolia" 
          alt="GitHub achievement showcase was once here..." />
   </a>
   <a href="https://github.com/ryo-ma/github-profile-trophy#gh-light-mode-only">
