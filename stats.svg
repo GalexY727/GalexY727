@@ -1,15 +1,15 @@
 
       <svg
         width="467"
-        height="189"
-        viewBox="0 0 467 189"
+        height="183"
+        viewBox="0 0 467 183"
         fill="none"
         xmlns="http://www.w3.org/2000/svg"
         role="img"
         aria-labelledby="descId"
       >
         <title id="titleId">Alexander Hamilton's GitHub Stats, Rank: B+</title>
-        <desc id="descId">Total Commits  : 7173, Total PRs: 92, Total PRs Merged: 68, Total PRs Reviewed: 5, Total Issues: 201</desc>
+        <desc id="descId">Total Commits  : 7174, Total PRs: 92, Total PRs Merged: 68, Total PRs Reviewed: 5, Total Issues: 201</desc>
         <style>
           .header {
             font: 600 18px 'Segoe UI', Ubuntu, Sans-Serif;
@@ -73,7 +73,7 @@
         stroke-dashoffset: 251.32741228718345;
       }
       to {
-        stroke-dashoffset: 98.13056198979694;
+        stroke-dashoffset: 98.13036086046776;
       }
     }
   
@@ -147,7 +147,7 @@
         >
           
     <g data-testid="rank-circle"
-          transform="translate(390.5, 44.5)">
+          transform="translate(390.5, 41.5)">
         <circle class="rank-circle-rim" cx="-10" cy="8" r="40" />
         <circle class="rank-circle" cx="-10" cy="8" r="40" />
         <g class="rank-text">
@@ -174,7 +174,7 @@
         data-testid="commits"
       >7.2k</text>
     </g>
-  </g><g transform="translate(0, 24)">
+  </g><g transform="translate(0, 23)">
     <g class="stagger" style="animation-delay: 600ms" transform="translate(25, 0)">
       
     <svg data-testid="icon" class="icon" viewBox="0 0 16 16" version="1.1" width="16" height="16">
@@ -189,7 +189,7 @@
         data-testid="prs"
       >92</text>
     </g>
-  </g><g transform="translate(0, 48)">
+  </g><g transform="translate(0, 46)">
     <g class="stagger" style="animation-delay: 750ms" transform="translate(25, 0)">
       
     <svg data-testid="icon" class="icon" viewBox="0 0 16 16" version="1.1" width="16" height="16">
@@ -204,7 +204,7 @@
         data-testid="prs_merged"
       >68</text>
     </g>
-  </g><g transform="translate(0, 72)">
+  </g><g transform="translate(0, 69)">
     <g class="stagger" style="animation-delay: 900ms" transform="translate(25, 0)">
       
     <svg data-testid="icon" class="icon" viewBox="0 0 16 16" version="1.1" width="16" height="16">
@@ -219,7 +219,7 @@
         data-testid="reviews"
       >5</text>
     </g>
-  </g><g transform="translate(0, 96)">
+  </g><g transform="translate(0, 92)">
     <g class="stagger" style="animation-delay: 1050ms" transform="translate(25, 0)">
       
     <svg data-testid="icon" class="icon" viewBox="0 0 16 16" version="1.1" width="16" height="16">
