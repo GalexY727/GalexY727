@@ -1,15 +1,15 @@
 
       <svg
         width="467"
-        height="165"
-        viewBox="0 0 467 165"
+        height="177"
+        viewBox="0 0 467 177"
         fill="none"
         xmlns="http://www.w3.org/2000/svg"
         role="img"
         aria-labelledby="descId"
       >
         <title id="titleId">Alexander Hamilton's GitHub Stats, Rank: B+</title>
-        <desc id="descId">Total Commits  : 1562, Total PRs: 92, Total PRs Merged: 68, Total PRs Reviewed: 5, Total Issues: 201</desc>
+        <desc id="descId">Total Commits  : 7170, Total PRs: 92, Total PRs Merged: 68, Total PRs Reviewed: 5, Total Issues: 201</desc>
         <style>
           .header {
             font: 600 18px 'Segoe UI', Ubuntu, Sans-Serif;
@@ -73,7 +73,7 @@
         stroke-dashoffset: 251.32741228718345;
       }
       to {
-        stroke-dashoffset: 112.02693991738622;
+        stroke-dashoffset: 98.13116621493474;
       }
     }
   
@@ -147,7 +147,7 @@
         >
           
     <g data-testid="rank-circle"
-          transform="translate(390.5, 32.5)">
+          transform="translate(390.5, 38.5)">
         <circle class="rank-circle-rim" cx="-10" cy="8" r="40" />
         <circle class="rank-circle" cx="-10" cy="8" r="40" />
         <g class="rank-text">
@@ -172,9 +172,9 @@
         x="219.01"
         y="12.5"
         data-testid="commits"
-      >1.6k</text>
+      >7.2k</text>
     </g>
-  </g><g transform="translate(0, 20)">
+  </g><g transform="translate(0, 22)">
     <g class="stagger" style="animation-delay: 600ms" transform="translate(25, 0)">
       
     <svg data-testid="icon" class="icon" viewBox="0 0 16 16" version="1.1" width="16" height="16">
@@ -189,7 +189,7 @@
         data-testid="prs"
       >92</text>
     </g>
-  </g><g transform="translate(0, 40)">
+  </g><g transform="translate(0, 44)">
     <g class="stagger" style="animation-delay: 750ms" transform="translate(25, 0)">
       
     <svg data-testid="icon" class="icon" viewBox="0 0 16 16" version="1.1" width="16" height="16">
@@ -204,7 +204,7 @@
         data-testid="prs_merged"
       >68</text>
     </g>
-  </g><g transform="translate(0, 60)">
+  </g><g transform="translate(0, 66)">
     <g class="stagger" style="animation-delay: 900ms" transform="translate(25, 0)">
       
     <svg data-testid="icon" class="icon" viewBox="0 0 16 16" version="1.1" width="16" height="16">
@@ -219,7 +219,7 @@
         data-testid="reviews"
       >5</text>
     </g>
-  </g><g transform="translate(0, 80)">
+  </g><g transform="translate(0, 88)">
     <g class="stagger" style="animation-delay: 1050ms" transform="translate(25, 0)">
       
     <svg data-testid="icon" class="icon" viewBox="0 0 16 16" version="1.1" width="16" height="16">
