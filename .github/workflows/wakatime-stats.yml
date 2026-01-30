@@ -40,7 +40,7 @@ jobs:
         uses: crazy-max/ghaction-github-pages@v2.6.0
         with:
           target_branch: media
-          build_dir: dist
+          build_dir: wakatime
           keep_history: true 
           commit_message: Update wakatime stats
         env:
