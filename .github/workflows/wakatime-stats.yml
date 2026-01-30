@@ -5,6 +5,10 @@ on:
     - cron: "0 */12 * * *" # every 12 hours
   workflow_dispatch:
 
+  push:
+    branches:
+    - master
+
 permissions:
   contents: write
 
@@ -23,7 +27,7 @@ jobs:
         run: |
           set -euo pipefail
           mkdir -p wakatime
-          curl -fsSL "https://wakatime-readme-stats.vercel.app/api/wakatimeStats?username=$GITHUB_ACTOR&api_key=$WAKATIME_API_KEY&github_token=$GITHUB_TOKEN" \
+          curl -fsSL "https://wakatime-readme-stats.vercel.app/api/wakatimeStats?username=$GITHUB_ACTOR&api_key=$WAKATIME_API_KEY&github_token=$GITHUB_TOKEN&theme=dark_github&components=2&title_prefix=_____%27s&border_width=2&border_radius=10&scale=true&component1_scale_value=1.5&component1_type=weekly_langs&component1_chart_type=area&component1_start_day=mo&component1_y_axis=true&component1_y_axis_label=true&component1_hide_total=true&component2_type=basic&component2_start_day=mo&component2_heatmap_color=fcf9f2&component2_hide_title=true&border_color=DD2BC7" \
             -o wakatime/waka-stats.svg
 
       - name: Bump README cache-buster for wakatime/stats.svg (daily)
