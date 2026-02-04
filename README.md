@@ -66,7 +66,7 @@
   <!-- Github Stats -->
   <a href="https://github.com/anuraghazra/github-readme-stats#gh-dark-mode-only" target="_blank" rel="noopener noreferrer">
     <img src="https://github-readme-stats-fork.vercel.app/api?username=galexy727&show_icons=true&theme=tokyonight&border_color=DD2BC7&include_all_commits=true&bg_color=45,050608,1A1B27&show=prs_merged,reviews&line_height=24" 
-         width="49%" alt="My GitHub Stats were once here..." 
+         width="48.125%" alt="My GitHub Stats were once here..." 
   /></a>
   <a href="https://github.com/anuraghazra/github-readme-stats#gh-light-mode-only" target="_blank" rel="noopener noreferrer">
     <img src="https://github-readme-stats-fork.vercel.app/api?username=galexy727&show_icons=true&theme=buefy&border_color=DD2BC7" 
