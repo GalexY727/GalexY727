@@ -128,7 +128,7 @@
   <summary><h2>🌠 Wallpaper of the Day</h2></summary>
 
 <!--START_SECTION:update_image-->
-<img src=https://raw.githubusercontent.com/DenverCoder1/minimalistic-wallpaper-collection/main/images/gustavo-arteaga-monolith-on-giants-causeway.jpg height=100% width=100% align=center alt=Daily Wallpaper />
+<img src=https://raw.githubusercontent.com/DenverCoder1/minimalistic-wallpaper-collection/main/images/wp6504516-monument-valley-sunset-ultra-hd-wallpapers.jpg height=100% width=100% align=center alt=Daily Wallpaper />
 <!--END_SECTION:update_image-->
 
 </details>
