@@ -9,7 +9,7 @@
         aria-labelledby="descId"
       >
         <title id="titleId">Alexander Hamilton's GitHub Stats, Rank: A-</title>
-        <desc id="descId">Total Commits  : 7485, Total PRs: 123, Total PRs Merged: 97, Total PRs Reviewed: 8, Total Issues: 215</desc>
+        <desc id="descId">Total Commits  : 7485, Total PRs: 124, Total PRs Merged: 97, Total PRs Reviewed: 8, Total Issues: 215</desc>
         <style>
           .header {
             font: 600 18px 'Segoe UI', Ubuntu, Sans-Serif;
@@ -73,7 +73,7 @@
         stroke-dashoffset: 251.32741228718345;
       }
       to {
-        stroke-dashoffset: 88.19967893199772;
+        stroke-dashoffset: 88.042463666518;
       }
     }
   
@@ -187,7 +187,7 @@
         x="219.01"
         y="12.5"
         data-testid="prs"
-      >123</text>
+      >124</text>
     </g>
   </g><g transform="translate(0, 48)">
     <g class="stagger" style="animation-delay: 750ms" transform="translate(25, 0)">
