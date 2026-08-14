@@ -128,7 +128,7 @@
   <summary><h2>🌠 Wallpaper of the Day</h2></summary>
 
 <!--START_SECTION:update_image-->
-<img src=https://raw.githubusercontent.com/DenverCoder1/minimalistic-wallpaper-collection/main/images/chilledcow-kupla-kingdom-in-blue.jpg height=100% width=100% align=center alt=Daily Wallpaper />
+<img src=https://raw.githubusercontent.com/DenverCoder1/minimalistic-wallpaper-collection/main/images/ogarart-forest-mountains-2019-01-17.jpg height=100% width=100% align=center alt=Daily Wallpaper />
 <!--END_SECTION:update_image-->
 
 </details>
