@@ -16,7 +16,7 @@
         <rect width="100%" height="100%" fill="#ffffff9f" />
       <text x="160" y="24" fill="#333333" font-size="12" font-weight="bold" text-anchor="middle">Card Error</text>
       <text x="160" y="48" fill="#333333" font-size="11" text-anchor="middle" xml:space="preserve">
-        <tspan x="160" dy="0">weekly_langs unavailable: Unexpected token</tspan><tspan x="160" dy="13">&amp;#39;&amp;lt;&amp;#39;, &amp;quot;&amp;lt;!DOCTYPE &amp;quot;...</tspan><tspan x="160" dy="13">is not valid JSON</tspan>
+        <tspan x="160" dy="0">weekly_langs unavailable: No 7-day summary</tspan><tspan x="160" dy="13">data available.</tspan>
       </text>
       </g>
 </svg>
